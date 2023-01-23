@@ -1,3 +1,6 @@
+[![MasterHead](https://i.gifer.com/1psZ.mp4)
+
+https://i.gifer.com/1psZ.mp4
 <h1 align="center">Hey 👋, I'm UrkeNzY</h1>
 <h3 align="center">An aspiring frontend developer and game dev from Montenegro</h3>
 
