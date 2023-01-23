@@ -12,8 +12,6 @@
 
 - 📫 This is my contact email: **programerurke@gmail.com**
 
-&nbsp
-
 <img align="center" alt="Pusheen code" width="12%" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
