@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm UrkeNzY</h1>
 <h3 align="center">An aspiring frontend developer and game dev from Montenegro</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="right" alt="Coding" margin-top="10" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urkenzy&label=Profile%20views&color=0e75b6&style=flat" alt="urkenzy" /> </p>
 
