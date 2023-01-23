@@ -30,7 +30,8 @@
 
 <p><img align="center" width="415" src="https://github-readme-stats.vercel.app/api/top-langs?username=urkenzy&show_icons=true&locale=en&layout=compact" alt="urkenzy" /></p>
 &nbsp
-<img align="right" alt="Monstercat jump" width="300" src="https://i.giphy.com/media/gKZrI4mnE2HaRu5Kr3/giphy.webp">
+<img align="right" alt="Monstercat headbang" width="300" src="https://i.giphy.com/media/gKZrI4mnE2HaRu5Kr3/giphy.webp">
+
 <p>&nbsp;<img min-width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=urkenzy&show_icons=true&locale=en" alt="urkenzy" /></p>
 &nbsp
 <p><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urkenzy&" alt="urkenzy" /></p>
