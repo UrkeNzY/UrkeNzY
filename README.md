@@ -1,4 +1,4 @@
-<img align="center" alt="Pusheen code" width="10%" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="center" alt="Pusheen code" width="12%" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 
 <h1 align="center">Hey 👋, I'm UrkeNzY</h1>
