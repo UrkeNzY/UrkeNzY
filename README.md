@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/urkedoescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urkedoescode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uroš-radunović-414805252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uroš radunović" height="30" width="40" /></a>
-<a href="www.instagram.com/uros_radunovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@uros_radunovic" height="30" width="40" /></a>
+<a href="https://www.instagram.com/uros_radunovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@uros_radunovic" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@urkecodes5407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@urkecodes5407" height="30" width="40" /></a>
 </p>
 
