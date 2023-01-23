@@ -1,10 +1,9 @@
-[![MasterHead](https://i.gifer.com/1psZ.mp4)
+<img align="center" alt="Pusheen code" width="20%" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
-https://i.gifer.com/1psZ.mp4
 <h1 align="center">Hey 👋, I'm UrkeNzY</h1>
 <h3 align="center">An aspiring frontend developer and game dev from Montenegro</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="right" alt="Monstercat jump" width="300" src="https://media4.giphy.com/media/Y1SvSjhx3UPoASl42J/giphy.gif?cid=ecf05e47wkljym99gg13ji24tphdu3gie5nldstp17hz8k7u&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urkenzy&label=Profile%20views&color=0e75b6&style=flat" alt="urkenzy" /> </p>
 
@@ -12,7 +11,7 @@ https://i.gifer.com/1psZ.mp4
 
 - 💬 Ask me about **anything you're curious about, I'll be happy to answer**
 
-- 📫 This is my contact email **programerurke@gmail.com**
+- 📫 This is my contact email: **programerurke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
